@@ -1,0 +1,4 @@
+# any file within logs dir named production.log
+logs/production.log
+logs/.production.log
+
